@@ -1,0 +1,2 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;exercise8;requests;1597407923.150743;-0.5620019435882568;https://datacvr.virk.dk/data/visninger?soeg=euphemia%20media&oprettet=null&ophoert=null&branche=&type=virksomhed&sortering=default&language=da;https://datacvr.virk.dk/data/visninger?soeg=euphemia%20media&oprettet=null&ophoert=null&branche=&type=virksomhed&sortering=default&language=da;60671;200;True;
